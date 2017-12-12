@@ -32,6 +32,8 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist_b625000.m3
 https://sv3.stream4free.live/32b70388330c2d05440bf4ed7a7b81bfdc67a15f8271c766259f2d63a49cc668/hls/france.m3u8
 #EXTINF:-1, FR TF1
 https://sv7.stream4free.live/e837271bb2407ef7b07c438e16ad7589392dc7e3f12b4699268dc36bf5e6a5f6/hls/tf1-H.m3u8
+#EXTINF:-1, FR TF1
+https://sv7.stream4free.live/e837271bb2407ef7b07c438e16ad7589392dc7e3f12b4699268dc36bf5e6a5f6/hls/tf1-H.m3u8
 #EXTINF:-1, TDS 
 https://s67.escdn.co/jg6ntic2fztu7m7cy25voykn2l3v5p4na2k3natzi3sowyxavnh7wxnpcmwq/v.mp4
 #EXTINF:0,CBCSofra Live Stream - #CBCsofra_Live | CBCsofra Live Stream | #EXTVLCOPT:network-caching=1000
