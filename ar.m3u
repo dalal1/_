@@ -34,10 +34,12 @@ https://sv7.stream4free.live/e837271bb2407ef7b07c438e16ad7589392dc7e3f12b4699268
 #EXTINF:-1, Z| TDS 
 https://s67.escdn.co/jg6ntic2fztu7m7cy25voykn2l3v5p4na2k3natzi3sowyxavnh7wxnpcmwq/v.mp4
 #EXTINF:-1, AR| CBCSofra
-https://manifest.googlevideo.com/api/manifest/hls_variant/id/1UCNoFkr8to.0/go/1/expire/1513106553/ip/41.248.39.65/ei/GdgvWpCJF5OQcsDPg8AP/gcr/ma/source/yt_live_broadcast/sparams/ei%2Cgcr%2Cgo%2Chfr%2Cid%2Cip%2Cipbits%2Citag%2Cmaudio%2Cplaylist_type%2Cratebypass%2Crequiressl%2Csource%2Ctx%2Ctxs%2Cexpire/keepalive/yes/hfr/1/tx/9474467/playlist_duration/30/ipbits/0/playlist_type/DVR/ratebypass/yes/requiressl/yes/txs/9474466%2C9474467/itag/0/maudio/1/signature/03C8A1F8D42984FF61FF8A4A2921E923BFE1CA0B.CDC045914237E3B11D54F25317028D6A9736C28D/key/yt6/manifest_duration/30/dover/8/file/index.m3u8
+http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 #EXTINF:-1, AR| NAT GEO
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
 #EXTINF:-1, AR| QUEST ARABYA
 http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 #EXTINF:-1, AR| MBC MAX
 http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
+#EXTINF:-1, AR| DUBAI TV
+http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
