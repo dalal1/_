@@ -3,6 +3,8 @@
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8
 #EXTINF:-1, AR| ALJAZEERA LOW
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.m3u8
+#EXTINF:-1, AR| ALJAZEERA MUBASHIR
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1, AR| MBC MASR
 http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
 #EXTINF:-1, AR| MBC 1
