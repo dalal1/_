@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,BeinSport-Low_1
+#EXTINF:-1, tvg-name="bht1" group-title="Ax-Yu", BeinSport-Low_1
 http://xtream.hopto.me:9000/live/anaba/vshahaov42810/2315.ts
 #EXTINF:-1,BeinSport-Low_2
 http://xtream.hopto.me:9000/live/anaba/vshahaov42810/2316.ts
