@@ -49,7 +49,5 @@ http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, FR| BEIN SPORTS 1
 https://edge1.liveonlinetv247.org/live/bein1-hq/chunks.m3u8?nimblesessionid=2818109&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjoxMzozMSBQTSZoYXNoX3ZhbHVlPW16QVFncXFKbUpkdmgxalJ4VDd0S3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
-#EXTINF:-1, AR| 0HISTORY CHANNEL
-https://edge2.liveonlinetv247.org/live/history-hq/chunks.m3u8?nimblesessionid=2802189&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMTozMDozOCBBTSZoYXNoX3ZhbHVlPVN1MEtMS0dQNkViT2Z0ODFHVWM3enc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTU=
-#EXTINF:-1, US| HBO
-https://edge1.liveonlinetv247.org/live/hbo-hq/l_1173886_2055272_676.ts?nimblesessionid=2819206&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjoyMDo0OSBQTSZoYXNoX3ZhbHVlPU9aOVJneHZteDlWM0d1Q3NHWHdBZUE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTE=
+#EXTINF:-1, AR| BEIN SPORTS 2
+https://edge1.liveonlinetv247.org/live/bein2-hq/chunks.m3u8?nimblesessionid=2820011&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjoyNzoyMSBQTSZoYXNoX3ZhbHVlPVdhK21jVUExMXRsWk45RUdYV01idWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
