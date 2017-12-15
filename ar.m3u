@@ -47,7 +47,20 @@ http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 #EXTINF:-1, AR| DUBAI TV
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, FR| BEIN SPORTS 1
+#EXTINF:-1, AR| BEIN SPORTS 1
 https://edge1.liveonlinetv247.org/live/bein1-hq/chunks.m3u8?nimblesessionid=2818109&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjoxMzozMSBQTSZoYXNoX3ZhbHVlPW16QVFncXFKbUpkdmgxalJ4VDd0S3c9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
 #EXTINF:-1, AR| BEIN SPORTS 2
 https://edge1.liveonlinetv247.org/live/bein2-hq/chunks.m3u8?nimblesessionid=2820011&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjoyNzoyMSBQTSZoYXNoX3ZhbHVlPVdhK21jVUExMXRsWk45RUdYV01idWc9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
+#EXTINF:-1, AR| BEIN SPORTS 3
+https://edge2.liveonlinetv247.org/live/bein3-hq/chunks.m3u8?nimblesessionid=2809408&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjozMDoyMiBQTSZoYXNoX3ZhbHVlPVh5UHJONkVRUjl1TTlvR1orSVVNeFE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
+#EXTINF:-1, AR| BEIN SPORTS 4
+https://edge2.liveonlinetv247.org/live/bein4-hq/chunks.m3u8?nimblesessionid=2809564&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAxNyAxMjozMjowNyBQTSZoYXNoX3ZhbHVlPWxFY1RjRDhuVnMyc29GY1I1Z3h6SVE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9MTQxLjEwMS43Ni4yMjYmc3RybV9sZW49MTM=
+
+
+
+
+
+
+
+
+
