@@ -42,10 +42,4 @@ http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 #EXTINF:-1, AR| DUBAI TV
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, AR| BEIN SPORTS 1
-http://62.210.112.115:88/live/555555555/555555555/1035.m3u8?token=TBsKBUQJFgMXWwAGA1FcVl0BVVJZUAYAA1YBAAVVVlBRClMBD1QHAANBH0BGR0sBWFg9X1wUWAgFBgceEBASUUVmCwAVWxYLB1ELQBkRTQ1UUEAMCBpASVxREAgQVlMGBAxASBUETE1QEV0DWWxdAU9cAVMaDAxMWVkeEF0LPlBSVAMKU0MOGwRBH0BcQElGAxcvV0pZARlhUF5XUQoMFhsbAA1DE1VNUEEJQAcEC1EbGUBVV0MMTUdMEAgQKCAWGxsHHEMEWkpcDF1ADxFUV0wNQBoaXxFmR1BBRkAAAFlSS0BeFVAWFRcOUhpqUFYKV1ABQlFZDEoXDxACEElDWVhXCxBYE2tJXAcRWBcADVQIBkBL
-#EXTINF:-1, AR| Project RWME
-https://shahidmd.hs.llnwd.net/smedia/ss/2fda1d3fd7ab453cad983544e8ed70e4/Pl/xJxQgGOwoIRakxDLFsraFIIaGSOfddeCVcvlZ7uLs/3000040010-txmhd_project-runway-middle-east--2--ep---3.mpegts/playlist-832f8d1bc1853c2e53c3fa6fad3a97716f4687fe.m3u8
-#EXTINF:-1, AR| Project RWMEE
-https://shahidmd.hs.llnwd.net/smedia/ss/2fda1d3fd7ab453cad983544e8ed70e4/Pl/xJxQgGOwoIRakxDLFsraFIIaGSOfddeCVcvlZ7uLs/3000040010-txmhd_project-runway-middle-east--2--ep---3.mpegts/playlist-832f8d1bc1853c2e53c3fa6fad3a97716f4687fe.m3u8
-#EXTINF:-1, AR| Project RWME 2
-https://shahidmd.hs.llnwd.net/smedia/ss/2fda1d3fd7ab453cad983544e8ed70e4/8j/7MUcnX8yTHVy6ue3rBFnk1JBcF4N3rjmFEHnYcp4I/3000040012-txmhd_project-runway-middle-east--2--ep---5_1.mpegts/playlist-044870c6663f9b378df5060eb5f99c98097a0038.m3u8
+https://edge2.liveonlinetv247.org/live/bein1-hq/chunks.m3u8?nimblesessionid=4151362&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNyA3OjExOjE3IFBNJmhhc2hfdmFsdWU9WGFyN2FHZ2NUVFR0ZnRJYkdzOGFsUT09JnZhbGlkbWludXRlcz02MCZpZD0xNDEuMTAxLjc3LjEyOCZzdHJtX2xlbj0xMw==
