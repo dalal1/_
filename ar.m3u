@@ -43,19 +43,5 @@ http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 #EXTINF:-1, AR| BEIN SPORTS 1
 https://edge2.liveonlinetv247.org/live/bein1-hq/chunks.m3u8?nimblesessionid=4151362&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNyA3OjExOjE3IFBNJmhhc2hfdmFsdWU9WGFyN2FHZ2NUVFR0ZnRJYkdzOGFsUT09JnZhbGlkbWludXRlcz02MCZpZD0xNDEuMTAxLjc3LjEyOCZzdHJtX2xlbj0xMw==
-#EXTINF:-1, AR| BEIN SPORTS 22
-https://edge1.liveonlinetv247.org/live/bein2-hq/chunks.m3u8?nimblesessionid=4165351&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNyA3OjEzOjUyIFBNJmhhc2hfdmFsdWU9K05CcE1aOXNWNFVoRDlsMHNreHhRZz09JnZhbGlkbWludXRlcz02MCZpZD0xNDEuMTAxLjc3LjEyOCZzdHJtX2xlbj0xMw==
-#EXTINF:-1, Z | HXH 15
-https://1fjiw6h.oloadcdn.net/dl/l/qJ5UO6wEGEtG2Fo3/dJ1Tyuw53b4/VMlmP1GNX3e.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 16
-https://ph2dwr.oloadcdn.net/dl/l/upbNYFHiAckWOvWA/AHIo3gn2NLA/sckwQjJov64.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 17
-https://1fjiw60.oloadcdn.net/dl/l/lxbfTxAobBOfeO5i/suexcljWkJU/Uh9d62qDD0q.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 18
-https://1fiag0k.oloadcdn.net/dl/l/J5lH66i3B4vIX5MY/mYX6j3hfg1M/gBIx8WZ2nhP.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 19
-https://1fgqfmr.oloadcdn.net/dl/l/-OykeiHH2nC9JuWg/jI1yBVgApmM/H7VP0DDyuPm.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 20
-https://oqt1pd.oloadcdn.net/dl/l/ufwR2NTFtLQEhHIe/bJ7uh8b08x0/cDJF5lHbbRq.mkv.mp4?mime=true
-#EXTINF:-1, Z | HXH 21
-https://1fgm8h4.oloadcdn.net/dl/l/ufDFEoczCGeUpcLI/SZNO2rvH6Xo/Ox16xgxawCk.mkv.mp4?mime=true
+#EXTINF:-1, AR| BEIN SPORTS 2
+https://edge1.liveonlinetv247.org/live/bein2-hq/chunks.m3u8?nimblesessionid=4928726&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxNyA3OjQ0OjM1IFBNJmhhc2hfdmFsdWU9ODZxY1NBeG4yWnlENTMyM3dReGhQdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjExMS4xOTMmc3RybV9sZW49MTM=
