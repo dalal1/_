@@ -41,8 +41,8 @@ http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
 http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
 #EXTINF:-1, AR| DUBAI TV
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, AR| BEIN SPORTS 1
-https://edge2.liveonlinetv247.org/live/bein1-hq/chunks.m3u8?nimblesessionid=4151362&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTkvMjAxNyA3OjExOjE3IFBNJmhhc2hfdmFsdWU9WGFyN2FHZ2NUVFR0ZnRJYkdzOGFsUT09JnZhbGlkbWludXRlcz02MCZpZD0xNDEuMTAxLjc3LjEyOCZzdHJtX2xlbj0xMw==
+#EXTINF:-1, AR| BEIN SPORTS 11
+https://edge1.liveonlinetv247.org/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjMvMjAxNyAxOjI3OjU0IFBNJmhhc2hfdmFsdWU9UUk5Y3Zrd3J5RGhad1VZSzNMdEFNQT09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjExMS4xOTMmc3RybV9sZW49MTM=
 #EXTINF:-1, AR| BEIN SPORTS 2
 https://edge1.liveonlinetv247.org/live/bein2-hq/chunks.m3u8?nimblesessionid=4928726&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjIvMjAxNyA3OjQ0OjM1IFBNJmhhc2hfdmFsdWU9ODZxY1NBeG4yWnlENTMyM3dReGhQdz09JnZhbGlkbWludXRlcz02MCZpZD0xNjIuMTU4LjExMS4xOTMmc3RybV9sZW49MTM=
 #EXTINF:-1, AR| EL CLASSICO 1
