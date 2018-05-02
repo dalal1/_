@@ -49,12 +49,10 @@ http://selevision9880-i.akamaihd.net/hls/live/219177/98804/1.m3u8
 http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
 #EXTINF:-1, MBC Bollywood
 http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
-#EXTINF:-1, MBC AL Nahar
+#EXTINF:-1, AL Nahar
 http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
 #EXTINF:-1, CBC
 http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
-#EXTINF:-1, CBC SOFRA
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 #EXTINF:-1, Space toon
 http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
 #EXTINF:-1, LBC
@@ -65,3 +63,5 @@ http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
 http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
 #EXTINF:-1, NatGeo kids
 http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
+#EXTINF:-1, KBS WORLD
+https://www.youtube.com/watch?v=NCLQN16Lyb4
