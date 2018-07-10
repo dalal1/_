@@ -7,63 +7,15 @@ http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:-1, AR| ALJAZEERA ENG
 https://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
-#EXTINF:-1, AR| MBC MASR
-http://selevision9889-i.akamaihd.net/hls/live/219312/98895/1.m3u8
-#EXTINF:-1, AR| MBC 1
-http://selevision9895-i.akamaihd.net/hls/live/219367/98950/1.m3u8
-#EXTINF:-1, AR| MBC 2
-http://selevision9880-i.akamaihd.net/hls/live/219174/98801/1.m3u8
 #EXTINF:-1, AR| ALJAZEERA DOC
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
 #EXTINF:-1, AR| TRT AR
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_700_av-p.m3u8
 #EXTINF:-1, AR| MA ARRYADIA
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
-#EXTINF:-1, AR| DZ SAMIRA TV
-http://streaming.i-sat.tv:8081/live/samira/chunks.m3u8
-#EXTINF:-1, AR| MBC 4
-http://selevision9880-i.akamaihd.net/hls/live/219176/98803/1.m3u8
 #EXTINF:-1, AR| Alaraby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, AR| ORIENT TV
 https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b525000.m3u8
-#EXTINF:-1, AR| MTV LIBAN
-http://selevision9883-i.akamaihd.net/hls/live/219250/98834/1.m3u8
-#EXTINF:-1, AR| CBCSofra
-http://selevision9895-i.akamaihd.net/hls/live/219368/98951/1.m3u8
 #EXTINF:-1, AR| NAT GEO
-http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
-#EXTINF:-1, AR| QUEST ARABYA
-http://selevision9885-i.akamaihd.net/hls/live/219270/98854/1.m3u8
-#EXTINF:-1, AR| MBC MAX
-http://selevision9880-i.akamaihd.net/hls/live/219179/98806/1.m3u8
-#EXTINF:-1, AR| DUBAI TV
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1, MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1, MBC 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
-#EXTINF:-1, MBC Action
-http://selevision9880-i.akamaihd.net/hls/live/219177/98804/1.m3u8
-#EXTINF:-1, MBC Action
-http://selevision9893-i.akamaihd.net/hls/live/219355/98938/1.m3u8
-#EXTINF:-1, MBC Bollywood
-http://selevision9894-i.akamaihd.net/hls/live/219366/98949/1.m3u8
-#EXTINF:-1, AL Nahar
-http://selevision9877-i.akamaihd.net/hls/live/219119/98771/1.m3u8
-#EXTINF:-1, CBC
-http://selevision9877-i.akamaihd.net/hls/live/219121/98773/1.m3u8
-#EXTINF:-1, Space toon
-http://selevision9884-i.akamaihd.net/hls/live/219261/98845/1.m3u8
-#EXTINF:-1, LBC
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
-#EXTINF:-1, Al nahar tv
-http://selevision9887-i.akamaihd.net/hls/live/219290/98874/1.m3u8
-#EXTINF:-1, Abu Dhabi
-http://selevision9876-i.akamaihd.net/hls/live/219114/98766/1.m3u8
-#EXTINF:-1, NatGeo kids
-http://selevision9877-i.akamaihd.net/hls/live/219118/98770/1.m3u8
-#EXTINF:-1, KBS WORLD
-https://www.youtube.com/watch?v=IXQjWE0Ajyw
-#EXTINF:-1, Real madrid vs barça 
-http://d3ea03zoy7sw84.cloudfront.net/live/p4745/chunks.m3u8
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
