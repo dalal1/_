@@ -1,3 +1,9 @@
 #EXTM3U
+#EXTINF:-1, OP 100
+http://video-1-102.rutube.ru/grobot/SW3gx1lFBNr13YpXXOvDTQ/1537124778/119/0x500003970b782b84/5390e116270043c9820af68269964aa3.mp4?i=640x480_1037
 #EXTINF:-1, OP 101
-https://video-1-2.rutube.ru/hls-vod/dDVkGE21uBWFU2RPU2QrBg/1538179126/126/0x5000cca255cc904d/a090a93b383f4eb6a348adf3b40a71a9.mp4.m3u8
+https://video-1-2.rutube.ru/hls-vod/ZA1xUPcQG3rVjcLraFkzEg/1538179497/122/0x500003970bd81938/a090a93b383f4eb6a348adf3b40a71a9.mp4.m3u8?i=640x480_1037
+#EXTINF:-1, OP 102
+http://video-1-207.rutube.ru/grobot/Y5GsyoxWJnt_9pmxzVcFSg/1537122724/135/0x5000cca255cc9082/3a5933a6108a4ee2a20215299458ccec.mp4?i=640x480_1037
+#EXTINF:-1, ajax vs AEK
+https://d1jc5edkkykdhp.cloudfront.net/index_4.m3u8
