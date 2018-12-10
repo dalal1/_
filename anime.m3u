@@ -1,5 +1,25 @@
-	#EXTM3U
-	#EXTINF:-1, OP 108
-	https://video-1-208.rutube.ru/hls-vod/lDh4uXDPMLbar0jzSQkCwg/1542489101/578/0x5000cca255cd537c/0c4de76bb2c5483e9aaa1ecaab233d9a.mp4.m3u8?i=640x480_1037
-	#EXTINF:-1, the songs of sparrows
-	https://stephanus-media.gloria.tv/gregor/hls/h/pm/qy7gu25k2gpr21dspqe7o5ars21dspqe7o5as.mp4/index.m3u8?sum=wblWtgvMvl5LB08aeQbGVQ&due=1544529600
+#EXTM3U
+#EXTINF:-1, AR| ALJAZEERA HD
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index576.m3u8
+#EXTINF:-1, AR| ALJAZEERA LOW
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index255.m3u8
+#EXTINF:-1, AR| ALJAZEERA MUBASHIR
+http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
+#EXTINF:-1, AR| ALJAZEERA ENG
+https://english.streaming.aljazeera.net/aljazeera/english2/index255.m3u8
+#EXTINF:-1, AR| ALJAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/800.m3u8
+#EXTINF:-1, AR| TRT AR
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_700_av-p.m3u8
+#EXTINF:-1, AR| MA ARRYADIA
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/arriadia-video=1500000-audio_AACL_qad_130400_110=130400.m3u8
+#EXTINF:-1, AR| Alaraby
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, AR| ORIENT TV
+https://svs.itworkscdn.net/orienttvlive/orienttv.smil/chunklist_b525000.m3u8
+#EXTINF:-1, AR| NAT GEO
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:-1, AR| Samira TV
+http://185.27.116.54:8081/livestream/samira1/chunks.m3u8
+#EXTINF:-1, the songs of sparrows
+https://stephanus-media.gloria.tv/gregor/hls/h/pm/qy7gu25k2gpr21dspqe7o5ars21dspqe7o5as.mp4/index.m3u8
