@@ -1,11 +1,15 @@
 #EXTM3U
 #EXTINF:-1, Classic rock playlist
-https://www.youtube.com/watch?v=nrIPxlFzDi0&list=PLrXc1cGXEAqda0tFVYByVAcDZd7YvTJzi
+https://www.youtube.com/playlist?list=PLrXc1cGXEAqda0tFVYByVAcDZd7YvTJzi
 #EXTINF:-1,  rock playlist 2
-https://www.youtube.com/watch?v=zYxkezUr8MQ&list=PLcWTxIr3L6ZjXKm-H5eF_JdXi5dtylEZq
+https://www.youtube.com/playlist?list=PLcWTxIr3L6ZjXKm-H5eF_JdXi5dtylEZq
 #EXTINF:-1,  Quran
-https://www.youtube.com/watch?v=xZHRh7a371Y&list=PLtYCkdz-JAtQhaCmudzGDN9cSUg0T86Go
+https://www.youtube.com/playlist?list=PLtYCkdz-JAtQhaCmudzGDN9cSUg0T86Go
 #EXTINF:-1,  best of 90s rock
-https://www.youtube.com/watch?v=TnEdUVBjZfo&list=PL2A5519AAAEF06FF2
-ROCK metal, Lyrics : 60's 70's 80's 90's 2000's
-https://www.youtube.com/watch?v=mBjwMSIC7ik&list=PLw6p6PA8M2mjTx47MX2VJfXtdtbbDyLAA
+https://www.youtube.com/playlist?list=PL2A5519AAAEF06FF2
+#EXTINF:-1, ROCK metal, Lyrics : 60's 70's 80's 90's 2000's
+https://www.youtube.com/playlist?list=PLw6p6PA8M2mjTx47MX2VJfXtdtbbDyLAA
+#EXTINF:-1, Blues Rock & Southern Rock Badass
+https://www.youtube.com/playlist?list=PLB9mdWkoxxCAPnP2vhhNh_7cOqU6AXqLP
+#EXTINF:-1, Classic Southern Rock
+https://www.youtube.com/playlist?list=PL3mcE8pqA9V9IYFjSdXcU3ShE2Yfg7Oy-
